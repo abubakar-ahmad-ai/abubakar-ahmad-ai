@@ -50,9 +50,11 @@
 
 ---
 
-## 📫 Connect With Me
+## ## 📫 Connect With Me
 
-- Email: YOUR_EMAIL@gmail.com
+* 📧 Email: [abubakarahmad.ai.ml@gmail.com](mailto:abubakarahmad.ai.ml@gmail.com)
+* 📍 Location: Peshawar, Pakistan
+* 💻 GitHub: https://github.com/abubakar-ahmad-ai
 
 ---
 
