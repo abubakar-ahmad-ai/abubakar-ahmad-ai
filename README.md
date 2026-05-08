@@ -50,7 +50,7 @@
 
 ---
 
-## ## 📫 Connect With Me
+## 📫 Connect With Me
 
 * 📧 Email: [abubakarahmad.ai.ml@gmail.com](mailto:abubakarahmad.ai.ml@gmail.com)
 * 📍 Location: Peshawar, Pakistan
